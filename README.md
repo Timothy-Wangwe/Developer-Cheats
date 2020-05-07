@@ -1,5 +1,8 @@
 # Developer-Cheats
-Cheat Sheets handmade by Developers for Developers <br><br>
+[![GitHub issues](https://img.shields.io/github/issues/Timothy-Wangwe/Developer-Cheats)](https://github.com/Timothy-Wangwe/Developer-Cheats/issues)
+[![GitHub license](https://img.shields.io/github/license/Timothy-Wangwe/Developer-Cheats)](https://github.com/Timothy-Wangwe/Developer-Cheats/blob/master/LICENSE)<br>
+Cheat Sheets handmade by Developers for Developers <br>
+
 ### Get Sheets 
 _Click this :arrow_down: icon to download_
 1. Git Control [:arrow_down:](Git) 
@@ -9,8 +12,7 @@ _Click this :arrow_down: icon to download_
 5. Pandas [:arrow_down:](Pandas)
 
 ### Suggests
-To Suggest Cheets, Open a [Pull Request!](https://github.com/Timothy-Wangwe/Developer-Cheats/pull/new/master)<br>
+To Suggest Cheets, Open a [![Pull Requests](https://img.shields.io/badge/Pull-Request-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/pull/new/master)<br>
 
 ------------
-Respects to **Sansei** [Sahil Bondre](https://github.com/godcrampy)
-<i class="fa fa-download" aria-hidden="true"></i>
+[![Attributes](https://img.shields.io/badge/Sansei-Sahil%20Bondre-orange)](https://github.com/godcrampy)
