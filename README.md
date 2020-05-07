@@ -9,8 +9,7 @@ _Click this :arrow_down: icon to download_
 2. Markdown [:arrow_down:](Markdown)
 3. Visual Studio Code [:arrow_down:](VS-Code)
 4. Yarn [:arrow_down:](Yarn)
-5. Pandas [:arrow_down:](Pandas)
-
+5. Pandas       [![Pandas](https://img.shields.io/github/size/Timothy-Wangwe/Developer-Cheats/Pandas/Pandas%20Cheat%20Sheet.pdf)](Pandas)
 ### Suggests
 To Suggest Cheets, Open a [![Pull Requests](https://img.shields.io/badge/Pull-Request-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/pull/new/master)<br>
 
