@@ -5,11 +5,11 @@ Cheat Sheets handmade by Developers for Developers <br>
 
 ### Get Sheets 
 _Click this :arrow_down: icon to download_
-1. Git Control [:arrow_down:](Git) 
-2. Markdown [:arrow_down:](Markdown)
-3. Visual Studio Code [:arrow_down:](VS-Code)
-4. Yarn [:arrow_down:](Yarn)
-5. Pandas       [![Pandas](https://img.shields.io/github/size/Timothy-Wangwe/Developer-Cheats/Pandas/Pandas%20Cheat%20Sheet.pdf)](Pandas)
+1. Git Control  [![PDFs](https://img.shields.io/badge/Download-Pdf-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/tree/master/Git)
+2. Markdown     [![PDFs](https://img.shields.io/badge/Download-Pdf-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Markdown/Markdown-Cheat-Sheet-Crampy.pdf)
+3. Visual Studio Code [![PDFs](https://img.shields.io/badge/Download-Pdf-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/VS-Code/VS-Code-Cheat-Sheet-Crampy.pdf)
+4. Yarn         [![PDFs](https://img.shields.io/badge/Download-Pdf-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Yarn/Yarn-Cheat-Sheet-Crampy.pdf)
+5. Pandas       [![PDFs](https://img.shields.io/badge/Download-Pdf-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Pandas/Pandas-Cheat-Sheet.pdf)
 ### Suggests
 To Suggest Cheets, Open a [![Pull Requests](https://img.shields.io/badge/Pull-Request-blue)](https://github.com/Timothy-Wangwe/Developer-Cheats/pull/new/master)<br>
 
