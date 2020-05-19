@@ -5,13 +5,13 @@ _Cheat Sheets handmade by Developers for Developers_ <br>
 
 ### Get Sheets 
 1. [Git Control](https://github.com/Timothy-Wangwe/Developer-Cheats/tree/master/Git)
-2. [Markdown](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Markdown/Markdown-Cheat-Sheet-Crampy.pdf)
-3. [Visual Studio Code](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/VS-Code/VS-Code-Cheat-Sheet-Crampy.pdf)
-4. [Yarn](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Yarn/Yarn-Cheat-Sheet-Crampy.pdf)
-5. [Pandas](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Pandas/Pandas-Cheat-Sheet.pdf)
-6. [Numpy](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Numpy/NumPy_Basics_-_Cheat_Sheet_Data_Camp.pdf)
-7. [Keras](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Keras/Keras_-_Cheat_Sheet_Data_Camp.pdf)
-8. [Importing Data](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Importing-Data/Importing_Data_-_Cheat_Sheet_Data_Camp.pdf)
+2. [Markdown](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Markdown)
+3. [Visual Studio Code](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/VS-Code/VS_Code_Cheat_Sheet_-_Crampy.pdf)
+4. [Yarn](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Yarn/Yarn_Cheat_Sheet_-_Crampy.pdf)
+5. [Pandas](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Pandas/Pandas_Cheat_Sheet_-_Data_Camp.pdf)
+6. [Numpy](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Numpy/NumPy_Basics_Cheat_Sheet_-_Data_Camp.pdf.pdf)
+7. [Keras](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Keras/Keras_Cheat_Sheet_-_Data_Camp.pdf)
+8. [Importing Data](https://github.com/Timothy-Wangwe/Developer-Cheats/raw/master/Importing_Data_Cheat_Sheet_-_Data_Camp.pdf)
 
 ### Suggests
 _To Suggest Cheets, Open a [Pull Requests](https://github.com/Timothy-Wangwe/Developer-Cheats/pull/new/master)_<br>
